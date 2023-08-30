@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\.NET-buoi3\dotNET-buoi-3\dotNET-buoi-3\bin\Debug\dotNET-buoi-3.exe.config
+C:\Users\Administrator\Desktop\.NET-buoi3\dotNET-buoi-3\dotNET-buoi-3\obj\Debug\dotNET-buoi-3.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\.NET-buoi3\dotNET-buoi-3\dotNET-buoi-3\bin\Debug\dotNET-buoi-3.exe
+C:\Users\Administrator\Desktop\.NET-buoi3\dotNET-buoi-3\dotNET-buoi-3\bin\Debug\dotNET-buoi-3.pdb
+C:\Users\Administrator\Desktop\.NET-buoi3\dotNET-buoi-3\dotNET-buoi-3\obj\Debug\dotNET-buoi-3.exe
+C:\Users\Administrator\Desktop\.NET-buoi3\dotNET-buoi-3\dotNET-buoi-3\obj\Debug\dotNET-buoi-3.pdb
